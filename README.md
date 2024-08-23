@@ -1,4 +1,4 @@
-# quizz
+# quiz
 
 android quiz app
 
